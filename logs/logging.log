@@ -1,1 +1,399 @@
 [2026-03-03 16:05:01,734: INFO: main: welcome to data sciense first project]
+[2026-03-04 20:30:42,816: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:30:42,824: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:39:56,308: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:39:56,311: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:46:39,781: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:46:39,784: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:46:48,571: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:46:48,574: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:47:36,547: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:47:36,550: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:49:32,127: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:49:32,130: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:49:32,133: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-04 20:49:32,135: INFO: common: created directory at: artifacts]
+[2026-03-04 20:50:28,366: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:50:28,368: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:50:28,371: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-04 20:50:28,373: INFO: common: created directory at: artifacts]
+[2026-03-04 20:50:28,375: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-04 20:53:13,075: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:53:13,078: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:53:13,080: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-04 20:53:13,083: INFO: common: created directory at: artifacts]
+[2026-03-04 20:53:13,085: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-04 20:54:34,042: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:54:34,045: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:54:34,048: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-04 20:54:34,050: INFO: common: created directory at: artifacts]
+[2026-03-04 20:54:34,053: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-04 20:54:34,055: INFO: 3686577092: file already exists]
+[2026-03-04 20:55:33,512: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 20:55:33,514: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 20:55:33,516: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-04 20:55:33,519: INFO: common: created directory at: artifacts]
+[2026-03-04 20:55:33,521: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-04 20:55:39,753: INFO: 3686577092: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 93A4:3C20A1:64132:7462E:69A84E63
+Accept-Ranges: bytes
+Date: Wed, 04 Mar 2026 15:25:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500030-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1772637940.332631,VS0,VE1
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0d6c2f862deb41a1af4b3462403fa77bd4cecfb6
+Expires: Wed, 04 Mar 2026 15:30:40 GMT
+Source-Age: 145
+
+]
+[2026-03-05 16:13:22,942: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 16:13:22,945: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:13:22,947: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:13:22,949: INFO: common: created directory at: artifacts]
+[2026-03-05 16:13:22,951: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-05 16:13:24,723: INFO: 3686577092: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7151:1C10:158199:191EEA:69A95E4B
+Accept-Ranges: bytes
+Date: Thu, 05 Mar 2026 10:43:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1500031-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772707404.335387,VS0,VE363
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a3da23fdd0047d4b0ef72f5274dab76614a7d60a
+Expires: Thu, 05 Mar 2026 10:48:24 GMT
+Source-Age: 0
+
+]
+[2026-03-05 16:21:09,152: INFO: main: welcome to data sciense first project]
+[2026-03-05 16:21:09,154: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 16:21:09,155: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:21:09,156: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:21:09,157: INFO: common: created directory at: artifacts]
+[2026-03-05 16:21:09,157: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 9, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-05 16:31:25,612: INFO: main: welcome to data sciense first project]
+[2026-03-05 16:31:25,613: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 16:31:25,615: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:31:25,615: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:31:25,616: INFO: common: created directory at: artifacts]
+[2026-03-05 16:31:25,616: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 9, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-05 16:38:44,480: INFO: main: welcome to data sciense first project]
+[2026-03-05 16:38:44,483: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 16:38:44,484: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:38:44,485: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:38:44,485: INFO: common: created directory at: artifacts]
+[2026-03-05 16:38:44,486: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 9, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-05 16:39:29,855: INFO: main: welcome to data sciense first project]
+[2026-03-05 16:39:29,857: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 16:39:29,858: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 16:39:29,859: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 16:39:29,861: INFO: common: created directory at: artifacts]
+[2026-03-05 16:39:29,862: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 9, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-05 18:15:02,009: INFO: main: welcome to data sciense first project]
+[2026-03-05 18:15:02,019: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 18:15:02,030: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 18:15:02,032: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 18:15:02,033: INFO: common: created directory at: artifacts]
+[2026-03-05 18:15:02,033: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 9, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-05 18:25:15,887: INFO: main: welcome to data sciense first project]
+[2026-03-05 18:25:15,889: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 18:25:15,890: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 18:25:15,891: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 18:25:15,891: INFO: common: created directory at: artifacts]
+[2026-03-05 18:25:15,892: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-05 19:37:46,825: INFO: main: welcome to data sciense first project]
+[2026-03-05 19:37:46,827: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-05 19:37:46,828: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-05 19:37:46,829: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-05 19:37:46,829: INFO: common: created directory at: artifacts]
+[2026-03-05 19:37:46,830: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-07 15:44:47,039: INFO: main: welcome to data sciense first project]
+[2026-03-07 15:44:47,042: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-07 15:44:47,043: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-07 15:44:47,044: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-07 15:44:47,045: INFO: common: created directory at: artifacts]
+[2026-03-07 15:44:47,046: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-07 15:53:28,028: INFO: main: welcome to data sciense first project]
+[2026-03-07 15:53:28,045: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-07 15:53:28,058: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-07 15:53:28,061: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-07 15:53:28,061: INFO: common: created directory at: artifacts]
+[2026-03-07 15:53:28,062: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-07 15:53:38,457: INFO: main: welcome to data sciense first project]
+[2026-03-07 15:53:38,459: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-07 15:53:38,460: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-07 15:53:38,461: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-07 15:53:38,462: INFO: common: created directory at: artifacts]
+[2026-03-07 15:53:38,462: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in main
+    obj.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-07 16:00:43,592: INFO: main: welcome to data sciense first project]
+[2026-03-07 16:00:43,594: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-07 16:00:43,595: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-07 16:00:43,596: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-07 16:00:43,597: INFO: common: created directory at: artifacts]
+[2026-03-07 16:00:43,598: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 11, in main
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-07 16:06:58,253: INFO: main: welcome to data sciense first project]
+[2026-03-07 16:06:58,255: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-07 16:06:58,256: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-07 16:06:58,258: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-07 16:06:58,258: INFO: common: created directory at: artifacts]
+[2026-03-07 16:06:58,259: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 11, in main
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-11 19:01:42,604: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:01:42,606: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:01:42,608: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:01:42,609: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:01:42,609: INFO: common: created directory at: artifacts]
+[2026-03-11 19:01:42,610: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-11 19:06:52,195: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:06:52,197: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:06:52,198: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:06:52,199: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:06:52,200: INFO: common: created directory at: artifacts]
+[2026-03-11 19:06:52,200: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-11 19:09:46,694: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:09:46,705: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:09:46,715: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:09:46,717: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:09:46,718: INFO: common: created directory at: artifacts]
+[2026-03-11 19:09:46,719: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-11 19:09:48,690: INFO: data_injestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3C26:1030CF:F3F1D:26E18E:69B170A3
+Accept-Ranges: bytes
+Date: Wed, 11 Mar 2026 13:39:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210059-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1773236388.376815,VS0,VE271
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c439ce4d254f88b636d383f7b7ddfd7b47e167c4
+Expires: Wed, 11 Mar 2026 13:44:48 GMT
+Source-Age: 0
+
+]
+[2026-03-11 19:10:08,572: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:10:08,575: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:10:08,576: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:10:08,577: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:10:08,578: INFO: common: created directory at: artifacts]
+[2026-03-11 19:10:08,578: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-11 19:16:31,672: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:16:31,683: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:16:31,695: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:16:31,697: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:16:31,698: INFO: common: created directory at: artifacts]
+[2026-03-11 19:16:31,698: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-11 19:16:31,698: INFO: data_injestion: file already exists]
+[2026-03-11 19:17:03,669: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:17:03,671: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:17:03,672: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:17:03,674: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:17:03,675: INFO: common: created directory at: artifacts]
+[2026-03-11 19:17:03,676: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "F:\AIml_project\DataScience_F\main.py", line 10, in <module>
+    data_ingestion.initiate_data_ingestion()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\AIml_project\DataScience_F\src\datascience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'. Did you mean: 'gat_data_ingestion_config'?
+[2026-03-11 19:19:56,382: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:19:56,385: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:19:56,386: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:19:56,387: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:19:56,388: INFO: common: created directory at: artifacts]
+[2026-03-11 19:19:56,389: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-11 19:19:56,389: INFO: data_injestion: file already exists]
+[2026-03-11 19:20:26,919: INFO: main: welcome to data sciense first project]
+[2026-03-11 19:20:26,921: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-11 19:20:26,922: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-11 19:20:26,923: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-11 19:20:26,923: INFO: common: created directory at: artifacts]
+[2026-03-11 19:20:27,027: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-11 19:20:28,489: INFO: data_injestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3C26:1030CF:F3F1D:26E18E:69B170A3
+Accept-Ranges: bytes
+Date: Wed, 11 Mar 2026 13:50:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210040-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1773237028.282109,VS0,VE233
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ecdd732f215d8116dda6c8d0e9d5929151168222
+Expires: Wed, 11 Mar 2026 13:55:28 GMT
+Source-Age: 0
+
+]

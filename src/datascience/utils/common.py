@@ -1,13 +1,13 @@
 import os
 import yaml
-import src.datascience import logger
+from src.datascience import logger
 import json
 import joblib
 from ensure import ensure_annotations
 from box import ConfigBox
 from pathlib import Path
 from typing import Any
-from exceptions.box import BoxValueError
+from box.exceptions import BoxValueError
 
 @ensure_annotations
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
@@ -30,7 +30,7 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
             return ConfigBox(content)
     except BoxValueError:
         raise BoxValueError("yaml file is empty ")
-    except Exception e:
+    except Exception as e:
         raise e
 
 
